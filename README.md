@@ -7,6 +7,9 @@ This project focuses on predicting the survival outcomes of passengers aboard th
 - **Algorithm Used:** Logistic Regression
   - Logistic Regression is chosen for its effectiveness in predicting binary outcomes, making it an ideal choice for this survival prediction task.
 
+## Dataset
+The dataset used for this project is the famous Titanic dataset, which contains information about passengers, including whether they survived or not.
+
 ## Dependencies
 Ensure you have the following dependencies installed to run the project:
 - Python 3.x
@@ -18,7 +21,7 @@ Install dependencies using:
 ```bash
 pip install numpy pandas scikit-learn
 
-## Dataset
-The dataset used for this project is the famous Titanic dataset, which contains information about passengers, including whether they survived or not.
+
+
 
 
